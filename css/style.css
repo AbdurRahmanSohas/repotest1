@@ -1,0 +1,26 @@
+header{
+    height: 200px;
+    background-image: url(../img/one.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: yellow;
+    text-align: center;
+    background-color: blue;
+    /* background-blend-mode: multiply; */
+
+}
+h1{
+    text-decoration: underline wavy green;
+}
+p{
+    color: blue;
+    text-decoration: overline;
+}
+input{
+    display: block;
+    margin-bottom: 10px;
+}
+input[type="text"]
+{
+    border: 3px solid green;
+}
